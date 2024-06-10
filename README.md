@@ -4,8 +4,6 @@
 * [Unityデータ](https://github.com/c23008/POPTHROW/tree/master/ProjectData/POPTHROW)  
 * [ビルドデータ](https://drive.google.com/drive/u/0/folders/1-t1VJWdACqt7LBpYwzlm5aj_wQWZXb9b)  
 
-## 概要  
-
 ## ジャンル  
 3Dシューティングアクション
 
@@ -26,4 +24,15 @@ Unity 2021.3.30f1
 
 ## 製作期間  
 3か月
+
+## メンバー（役割）  
+* 呉屋匡哉（プログラマ）  
+* 兼島一穂（プログラマ）  
+
+## ゲームスクリーンショット  
+![タイトル画面](./ScreenShot/Title.png)  
+![プレイ画面](./ScreenShot/Stage1.png)  
+![リザルト画面](./ScreenShot/result.png)  
+
+
 
