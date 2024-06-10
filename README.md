@@ -32,7 +32,7 @@ Unity 2021.3.30f1
 ## ゲームスクリーンショット  
 ![タイトル画面](./ScreenShot/Title.png)  
 ![プレイ画面](./ScreenShot/Stage1.png)  
-![リザルト画面](./ScreenShot/result.png)  
+![リザルト画面](./ScreenShot/Rsesult.png)  
 
 
 
